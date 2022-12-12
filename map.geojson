@@ -46,11 +46,11 @@
    "geometry":{"type":"Point","coordinates":[1384,3043]}},
   {"type":"Feature","properties":
     {"id":6,
-    "chapter":"Chapter 6: Flowers",
+    "chapter":"Chapter 5: Animals Escape the Huntsman",
     "zoom":5,
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/rc01001392",
-    "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
-    "geometry":{"type":"Point","coordinates":[3945,2920]}}
+    "description":"\" As Ibrahim Sultan successfully takes down the vulnerable lion, several other animals are scrambling to escape. "},
+    "geometry":{"type":"Point","coordinates":[1313,5999]}}
     ]}
