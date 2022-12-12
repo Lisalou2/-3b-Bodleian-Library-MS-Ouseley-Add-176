@@ -1,7 +1,7 @@
 {"type":"FeatureCollection", "features":[
   {"type":"Feature","properties":
     {"id":1,
-    "chapter":"Chapter 1: Bodleian Library MS. Ousely Add. 176 fol. 3b",
+    "chapter":"Bodleian Library MS. Ousely Add. 176 fol. 3b",
     "zoom":1,
     "image":"img/pictorial-st-louis.png",
     "source-credit":"Source: Library of Congres",
@@ -10,7 +10,7 @@
     "geometry":{"type":"Point","coordinates":[3319,4092]}},
   {"type":"Feature","properties":
     {"id":2,
-    "chapter":"Chapter 2: Clouds",
+    "chapter":"Chapter 1: Introduction",
     "zoom":5,
     "image":"img/pictorial-st-louis-1832.png",
     "source-credit":"Source: Library of Congress",
