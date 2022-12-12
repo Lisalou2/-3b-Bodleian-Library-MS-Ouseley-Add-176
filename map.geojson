@@ -52,7 +52,7 @@
     "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/rc01001392",
     "description":"\" As Ibrahim Sultan successfully takes down the vulnerable lion, several other animals are scrambling to escape. "},
-    "geometry":{"type":"Point","coordinates":[1313,5999]}}
+    "geometry":{"type":"Point","coordinates":[1313,5999]
  {"type":"Feature","properties":
     {"id":6,
     "chapter":"Chapter 6: The Small Men",
@@ -61,4 +61,4 @@
     "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/rc01001392",
     "description":"\" What is interesting about the men in this corner is that logically, they should look bigger given that they are closer to the viewer, the appear smaller than Ibrahim Sultan who should appear further away. This could be indicative of Ibrahim Sultan’s importance, emphasizing him as the most powerful of the men depicted in the photo. The men are also wearing muted colours in contrast to Ibrahim Sultan who is donning bright blue, red and gold. The drab clothing that the men in the bottom right corner are wearing make them fade into the background which causes them to look unimportant or secondary "},
-    "geometry":{"type":"Point","coordinates":[3561,5462]}}
+    "geometry":{"type":"Point","coordinates":[3561,5462]}},
