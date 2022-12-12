@@ -4,10 +4,10 @@
     "chapter":"Bodleian Library MS. Ousely Add. 176 fol. 3b",
     "zoom":1,
     "image":"",
-    "source-credit":"Source: Library of Congres",
+    "source-credit":"",
     "source-link":"",
     "description":"\""},
-    "geometry":{"type":"Point","coordinates":[3319,4092]}},
+    "geometry":{"type":"Point","coordinates":[0,0]}},
   {"type":"Feature","properties":
     {"id":2,
     "chapter":"Chapter 1: Introduction",
