@@ -13,8 +13,8 @@
     "chapter":"Chapter 1: Introduction",
     "zoom":5,
     "image":"",
-    "source-credit":"Source: Library of Congress",
-    "source-link":"https://lccn.loc.gov/rc01001392",
+    "source-credit":"",
+    "source-link":"",
     "description":"\"Written by Abu 'l-Qasim Hasan Ferdowsi, the Shahnameh, otherwise known as the “Book of Kings” is considered the longest poem written by a single person. It is folklore composed of history, literature, mythology, and propaganda woven with Persian culture. Within the Shahnameh one will find 990 chapters spread between 62 stories composed of 60,000 rhyming couplets. The revival of the Persian language and Iranian culture are said to have been dependent on the Shahnameh. It has permeated Iranian society and as such, it has greatly influenced those who hold so tightly onto the ancient legacy of Iran....\""},
     "geometry":{"type":"Point","coordinates":[703,338]}},
   {"type":"Feature","properties":
@@ -22,8 +22,8 @@
     "chapter":"Chapter 2: Who was Ibrahim Sultan?",
     "zoom":4,
     "image":"",
-    "source-credit":"Source: StLouis-MO.gov",
-    "source-link":"https://www.stlouis-mo.gov/archive/neighborhood-histories-norbury-wayman/bissell/works4.htm  ",
+    "source-credit":"",
+    "source-link":"  ",
     "description":"\"...Ibrahim Sultan, a patron of the Shahnama, and ruler of Shiraz in the 1400’s was born on August 26, 1394 (Abdullaeva and Melville 2008, 38). He became governor of Balkh when he was just 15 years old (Abdullaeva and Melville 2008, 38). Sultan was a calligrapher who worked on various copies of the Shahnameh (Abdullaeva and Melville 2008, 38). Additionally, he worked on writing inscriptions for public buildings (Abdullaeva and Melville 2008, 38). In 1423, Sultan camped at the capital of the Persian empire where he made his contributions to the ruins of Persepolis (Abdullaeva and Melville 2008, 38). ;\""},
     "geometry":{"type":"Point","coordinates":[2704,2925]}},
   {"type":"Feature","properties":
@@ -31,7 +31,7 @@
     "chapter":"Chapter 3: Ibrahim Sultan's Armour",
     "zoom":5,
     "image":"",
-    "source-credit":"Source: Eric Erickson via Ancestry.com",
+    "source-credit":"",
     "source-link":"http://rootsweb.ancestry.com/~asylums/stlouis_mo/index.html",
     "description":"\"...and from the Insane Asylum on the southwest... \""},
     "geometry":{"type":"Point","coordinates":[2362,2767]}},
@@ -41,7 +41,7 @@
     "zoom":3,
     "image":"",
     "source-credit":"Source: Library of Congress",
-    "source-link":"https://lccn.loc.gov/2012586260",
+    "source-link":"",
     "description":"\"...This illustration shows Ibrahim Sultan successfully capturing his prey, a lion, with an arrow.The look on the lion’s face is fearful, with an open mouth baring its teeth. The lion stares back at her captor, creating an intimate moment shared between the hunter and the hunted. The lion in this image is significant because lions are typically featured in literature as strong, brave, loyal animals\""},
    "geometry":{"type":"Point","coordinates":[1384,3043]}},
   {"type":"Feature","properties":
@@ -49,8 +49,8 @@
     "chapter":"Chapter 5: Animals Escape the Huntsman",
     "zoom":5,
     "image":"",
-    "source-credit":"Source: Library of Congress",
-    "source-link":"https://lccn.loc.gov/rc01001392",
+    "source-credit":"",
+    "source-link":"",
     "description":"\" As Ibrahim Sultan successfully takes down the vulnerable lion, several other animals are scrambling to escape. "},
     "geometry":{"type":"Point","coordinates":[1313,5999]}},
  {"type":"Feature","properties":
@@ -58,8 +58,8 @@
     "chapter":"Chapter 6: The Small Men",
     "zoom":5,
     "image":"",
-    "source-credit":"Source: Library of Congress",
-    "source-link":"https://lccn.loc.gov/rc01001392",
+    "source-credit":"",
+    "source-link":"",
     "description":"\"What is interesting about the men in this corner is that logically, they should look bigger given that they are closer to the viewer, the appear smaller than Ibrahim Sultan who should appear further away. This could be indicative of Ibrahim Sultan’s importance, emphasizing him as the most powerful of the men depicted in the photo. The men are also wearing muted colours in contrast to Ibrahim Sultan who is donning bright blue, red and gold. The drab clothing that the men in the bottom right corner are wearing make them fade into the background which causes them to look unimportant or secondary ;\""},
     "geometry":{"type":"Point","coordinates":[4510,5758]}}
 ]}
