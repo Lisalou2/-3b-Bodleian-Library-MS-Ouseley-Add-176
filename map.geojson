@@ -52,7 +52,7 @@
     "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/rc01001392",
     "description":"\" As Ibrahim Sultan successfully takes down the vulnerable lion, several other animals are scrambling to escape. "},
-    "geometry":{"type":"Point","coordinates":[1313,5999]
+    "geometry":{"type":"Point","coordinates":[1313,5999]}},
  {"type":"Feature","properties":
     {"id":6,
     "chapter":"Chapter 6: The Small Men",
